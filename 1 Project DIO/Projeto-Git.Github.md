@@ -2,8 +2,6 @@
 
 
 
-
-
 ![Git logo](https://user-images.githubusercontent.com/107075512/174316754-3dbfb9fa-7eb7-4667-bf4d-7f857e46d075.png)
 )
 
@@ -81,7 +79,7 @@ Comandos básicos para navegação para determinado sistema.
 
 - Criar uma pasta de modo costumeiro, para que seja armazenado e organizado os projetos          desenvolvidos.
 
-![Pasta do Projeto](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 1.jpg)
+![Pasta do Projeto](https://user-images.githubusercontent.com/107075512/174319147-bc8387a3-2afb-4400-87ad-d16836522609.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -89,7 +87,7 @@ Comandos básicos para navegação para determinado sistema.
 
 - Através do aplicativo Git Bash será execultado os comandos a seguir:
 
-![Abrindo Git Bash ](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 2.jpg)
+![Abrindo Git Bash ](https://user-images.githubusercontent.com/107075512/174319066-c5eefb52-0961-4b5a-b336-ad4ee391a71c.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -101,7 +99,7 @@ Comandos básicos para navegação para determinado sistema.
 Comando criar ---> git init "nome da  pasta"
 ~~~~
 
-![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 3.jpg)
+![Exemplo](https://user-images.githubusercontent.com/107075512/174318996-fbe84937-bada-4438-9ced-443e20068688.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,7 +111,7 @@ Comando criar ---> git init "nome da  pasta"
 Comando entrar ---> cd "nome da pasta"
 ~~~
 
-![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 4.jpg)
+![Exemplo](https://user-images.githubusercontent.com/107075512/174318940-a37d4de0-a0de-4cb1-871f-df0b35d20b67.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -129,9 +127,7 @@ Comando criar ---> echo "nome do arquivo" > "nome do arquivo" .txt
 Comando para mostar onde o arquivo esta armazenado ---> dir + enter
 ~~~
 
-
-
-![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 5.jpg)
+![Exemplo](https://user-images.githubusercontent.com/107075512/174318851-a6b64455-e077-48b5-b2c7-73c5ec67b4e2.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -141,7 +137,7 @@ Comando para mostar onde o arquivo esta armazenado ---> dir + enter
 
   Abrindo o documento de texto com o <kbd>Typora</kbd>
 
-![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 6.jpg)
+![Exemplo](https://user-images.githubusercontent.com/107075512/174318764-4e4fd08c-7eb7-4797-b4b6-66d376bc0899.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -153,7 +149,7 @@ Comando para mostar onde o arquivo esta armazenado ---> dir + enter
   Comando Config ---> git config --global user.email "e-mail" / git config --global user.name adicionar o seu nome
   ~~~~
 
-  ![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 7.jpg)
+  ![Exemplo](https://user-images.githubusercontent.com/107075512/174318650-cf399a5f-8f20-4316-8536-f95648ac8f3b.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -165,8 +161,7 @@ Comando para mostar onde o arquivo esta armazenado ---> dir + enter
   Comando Fixação ---> git add *
   ~~~~
 
-  ![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 8.jpg)
-
+  ![Exemplo](https://user-images.githubusercontent.com/107075512/174318546-912187c1-273a-439a-b70b-f265670c5cf3.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -178,7 +173,7 @@ Comando para mostar onde o arquivo esta armazenado ---> dir + enter
  Comando Commit ---> git commit -m "Primeiro Commint"
  ~~~
 
-![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 9.jpg)
+![Exemplo](https://user-images.githubusercontent.com/107075512/174318481-768f5eb1-c0e3-4b89-9755-83cc21b0c113.jpg)
 
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -190,8 +185,7 @@ Comando para mostar onde o arquivo esta armazenado ---> dir + enter
 Comando do Projeto ---> git remote add origin https://github.com/usuario/rails-girls.git
 ~~~
 
-![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 10.jpg)
-
+![Exemplo](https://user-images.githubusercontent.com/107075512/174318365-87aabac5-a183-4ca9-a2fb-f5e37af47f20.jpg)
 ##### --------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Passo 11: Criando repositório diretamente no GitHUb
@@ -213,7 +207,7 @@ Comando do Projeto ---> git remote add origin https://github.com/usuario/rails-g
   ~~~~git remote add origin https://github.com/Exemplo/Exemplo.git/ git branch -M main/ git push -u origin main
   Comando Push ---> git remote add origin https://github.com/Exemplo/Exemplo.git/ git branch -M main/ git push -u origin main
 
-![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 11.jpg)
+![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 11.jpg](https://user-images.githubusercontent.com/107075512/174317762-177610ad-6bee-491b-95b5-d69c91983451.jpg)
 
 <mark>Atenção o GitHub solicitará a senha pessoal do seu acesso, para Authentication</mark>.
 
