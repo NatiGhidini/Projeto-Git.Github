@@ -4,7 +4,8 @@
 
 
 
-![Git logo](C:\Users\Natiele\Documents\Imagens do Projeto\logo.png)
+![Git logo](![logo](https://user-images.githubusercontent.com/107075512/174316754-3dbfb9fa-7eb7-4667-bf4d-7f857e46d075.png)
+)
 
 Ferramenta que gerencia diferentes versões de um arquivo e projetos de desenvolvimento de software.
 
