@@ -5,9 +5,9 @@
 ![Git logo](https://user-images.githubusercontent.com/107075512/174316754-3dbfb9fa-7eb7-4667-bf4d-7f857e46d075.png)
 
 
-Ferramenta que gerencia diferentes versões de um arquivo e projetos de desenvolvimento de software.
+Ferramenta que gerência diferentes versões de um arquivo e projetos de desenvolvimento de software.
 
-*Pontos Positivos do Git*
+*Pontos Positivos do Git:*
 
 - Controle de versão 
 - Melhoramento de código
@@ -18,7 +18,7 @@ Ferramenta que gerencia diferentes versões de um arquivo e projetos de desenvol
 
 ## Instalação do Git 
 
-Através do link a baixo, opite pelo sistema operacional da sua máquina, e execulte conforme os passos.
+Através do link abaixo, opite pelo sistema operacional da sua máquina, e execulte conforme os passos.
 
 [Git Install](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
 
@@ -39,7 +39,7 @@ Através do link a baixo, opite pelo sistema operacional da sua máquina, e exec
 
 ## Navegação Via Command  ##
 
-Comandos básicos para navegação para determinado sistema.
+Comandos básicos para navegação para determinado sistema:
 
 [Windows](https://www.digitalhouse.com/br/blog/principais-comandos-git/)
 
@@ -51,7 +51,7 @@ Comandos básicos para navegação para determinado sistema.
 
 ### O que é um repositório Git?
 
-  Um repositório do Git é um armazenamento virtual para projetos. Ele permite que você salve versões do código, que você pode acessar quando precisar.
+  Um repositório do Git é um armazenamento virtual para projetos, ele permite que você salve versões do código que você pode acessar quando precisar.
 
 ###  --------------------------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ Comandos básicos para navegação para determinado sistema.
 
 #### Passo 1:  Armazenamento  ####
 
-- Criar uma pasta de modo costumeiro, para que seja armazenado e organizado os projetos          desenvolvidos.
+- Criar uma pasta de modo costumeiro, para que seja armazenado e organizado os projetos  desenvolvidos.
 
 ![Pasta do Projeto](https://user-images.githubusercontent.com/107075512/174319147-bc8387a3-2afb-4400-87ad-d16836522609.jpg)
 
@@ -143,7 +143,7 @@ Comando para mostar onde o arquivo esta armazenado ---> dir + enter
 
 #### Passo 7: Cofiguração Inicial 
 
-- Configurações que o Git nos solicita 
+- Configurações que o Git nos solicita.
 
   ~~~~ git config --global user.email "e-mail" / git config --global user.name adicionar o seu nome
   Comando Config ---> git config --global user.email "e-mail" / git config --global user.name adicionar o seu nome
@@ -179,7 +179,7 @@ Comando para mostar onde o arquivo esta armazenado ---> dir + enter
 
 #### Passo 10: Projeto Original 
 
-- Registrando o projeto original no GitHub
+- Registrando o projeto original no GitHub.
 
 ~~~git remote add origin https://github.com/usuario/rails-girls.git
 Comando do Projeto ---> git remote add origin https://github.com/usuario/rails-girls.git
