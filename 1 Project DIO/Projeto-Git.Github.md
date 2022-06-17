@@ -5,7 +5,7 @@
 ![Git logo](https://user-images.githubusercontent.com/107075512/174316754-3dbfb9fa-7eb7-4667-bf4d-7f857e46d075.png)
 
 
-Ferramenta que gerência diferentes versões de um arquivo e projetos de desenvolvimento de software.
+Ferramenta que gerencia diferentes versões de um arquivo e projetos de desenvolvimento de software.
 
 *Pontos Positivos do Git:*
 
@@ -18,7 +18,7 @@ Ferramenta que gerência diferentes versões de um arquivo e projetos de desenvo
 
 ## Instalação do Git 
 
-Através do link abaixo, opite pelo sistema operacional da sua máquina, e execulte conforme os passos.
+Através do link abaixo, opite pelo sistema operacional da sua máquina, e execute conforme os passos.
 
 [Git Install](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
 
