@@ -207,7 +207,7 @@ Comando do Projeto ---> git remote add origin https://github.com/usuario/rails-g
   ~~~~git remote add origin https://github.com/Exemplo/Exemplo.git/ git branch -M main/ git push -u origin main
   Comando Push ---> git remote add origin https://github.com/Exemplo/Exemplo.git/ git branch -M main/ git push -u origin main
 
-![Exemplo](C:\Users\Natiele\Documents\Imagens do Projeto\Imagem 11.jpg](https://user-images.githubusercontent.com/107075512/174317762-177610ad-6bee-491b-95b5-d69c91983451.jpg)
+![Exemplo](https://user-images.githubusercontent.com/107075512/174317762-177610ad-6bee-491b-95b5-d69c91983451.jpg)
 
 <mark>Atenção o GitHub solicitará a senha pessoal do seu acesso, para Authentication</mark>.
 
