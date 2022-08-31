@@ -1,4 +1,4 @@
- #  <sub><cite> Introdução ao Git e GitHub </cite></sub> 
+ #  <sub><cite> Introdução ao Git </cite></sub> 
 
 
 
