@@ -32,8 +32,3 @@
  #Instalando a dependência
  $ yarn
  ```
-
- ### 📌 Licença
-
- Este projeto usa a licença MIT.
- Para mais detalhes acesse [License](https://github.com/NatiGhidini/Projeto-Git.Github/blob/add-license-1/License).
