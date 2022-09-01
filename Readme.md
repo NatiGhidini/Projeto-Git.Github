@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="git.png">
+<img src="https://user-images.githubusercontent.com/107075512/187951998-a54d2616-9253-4bb5-98e7-dc4d7924261f.png">
 <p> Git & GitHub</p>
 </h1>
 
